@@ -1,0 +1,9 @@
+.added-film{
+    list-style-type: none;
+    background-color: #fca311;
+    margin-bottom: 2px;
+    text-align: left;
+    border: 1px solid #14213d;
+    color: #14213d;
+    font-weight: 600;
+}

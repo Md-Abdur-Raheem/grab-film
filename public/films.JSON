@@ -2,10 +2,7 @@
     {
       "id": 1,
       "name": "If Anything Happens I Love You",
-      "directors": [
-        "Will McCormac",
-        "Michael Govier"
-      ],
+      "directors": "Will McCormac",
       "year": 2020,
       "country": "United States",
       "rating": 7.8,
@@ -15,10 +12,7 @@
     {
       "id": 2,
       "name": "Hair Love",
-      "directors": [
-        "Matthew A Cherry",
-        "Bruce W Smith"
-      ],
+      "directors": "Matthew A Cherry",
       "year": 2019,
       "country": "United States",
       "rating": 7.4,
@@ -28,9 +22,7 @@
     {
       "id": 3,
       "name": "Bao",
-      "directors": [
-        "Domee Shi"
-      ],
+      "directors": "Domee Shi",
       "year": 2018,
       "country": "United States",
       "rating": 7.5,
@@ -40,9 +32,7 @@
     {
       "id": 4,
       "name": "Dear Basketball",
-      "directors": [
-        "Glen Keane"
-      ],
+      "directors": "Glen Keane",
       "year": 2017,
       "country": "United States",
       "rating": 7.4,
@@ -52,9 +42,7 @@
     {
       "id": 5,
       "name": "Piper",
-      "directors": [
-        "Alan Barillaro"
-      ],
+      "directors": "Alan Barillaro",
       "year": 2016,
       "country": "United States",
       "rating": 8.4,
@@ -64,9 +52,7 @@
     {
       "id": 6,
       "name": "Bear Story",
-      "directors": [
-        "Gabriel Osorio"
-      ],
+      "directors": "Gabriel Osorio",
       "year": 2015,
       "country": "Chile",
       "rating": 7.7,
@@ -76,9 +62,7 @@
     {
       "id": 7,
       "name": "Feast",
-      "directors": [
-        "Patric Osborne"
-      ],
+      "directors": "Patric Osborne",
       "year": 2014,
       "country": "United States",
       "rating": 8.2,
@@ -88,10 +72,7 @@
     {
       "id": 8,
       "name": "Mr. Hublot",
-      "directors": [
-        "Laurent Witz",
-        "Alexandre Espugares"
-      ],
+      "directors": "Laurent Witz",
       "year": 2013,
       "country": "France",
       "rating": 7.2,
@@ -101,9 +82,7 @@
     {
       "id": 9,
       "name": "Paperman",
-      "directors": [
-        "John Kahrs"
-      ],
+      "directors": "John Kahrs",
       "year": 2012,
       "country": "United States",
       "rating": 8.3,
@@ -113,10 +92,7 @@
     {
       "id": 10,
       "name": "The Fantastic Flying Books of Mr. Morris Lessmore",
-      "directors": [
-        "Williama Joycee",
-        "Brandon"
-      ],
+      "directors": "Williama Joycee",
       "year": 2011,
       "country": "United States",
       "rating": 7.9,
@@ -126,9 +102,7 @@
     {
       "id": 11,
       "name": "The Lost Thing",
-      "directors": [
-        "Shaun Tan"
-      ],
+      "directors": "Shaun Tan",
       "year": 2010,
       "country": "Australia",
       "rating": 7.4,
@@ -138,11 +112,7 @@
     {
       "id": 12,
       "name": "Logorama",
-      "directors": [
-        "François Alaux",
-        "Hervé de Crécy",
-        "Ludovic Houplain\t"
-      ],
+      "directors": "François Alaux",
       "year": 2009,
       "country": "France",
       "rating": 7.4,
@@ -152,9 +122,7 @@
     {
       "id": 13,
       "name": "La Maison en Petits Cubes",
-      "directors": [
-        "Kunio Katō"
-      ],
+      "directors": "Kunio Katō",
       "year": 2008,
       "country": "Japan",
       "rating": 8.2,
@@ -164,9 +132,7 @@
     {
       "id": 14,
       "name": "Peter & the Wolf",
-      "directors": [
-        "Suzie Templeton"
-      ],
+      "directors": "Suzie Templeton",
       "year": 2007,
       "country": "United Kingdom",
       "rating": 7.6,
@@ -176,9 +142,7 @@
     {
       "id": 15,
       "name": "The Danish Poet",
-      "directors": [
-        "Torill Kove"
-      ],
+      "directors": "Torill Kove",
       "year": 2006,
       "country": "Norway",
       "rating": 7.5,
