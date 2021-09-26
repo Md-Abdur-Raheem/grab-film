@@ -1,0 +1,16 @@
+.film-card{
+    width: 250px;
+    height: 700px;
+}
+.film{
+    background-color: #14213d;
+    color: #fff;
+}
+.film img{
+    height: 300px;
+}
+.add-btn{
+    position: absolute;
+    bottom: 10px;
+    left: 40px;
+}

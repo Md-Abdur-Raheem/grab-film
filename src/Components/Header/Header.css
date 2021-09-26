@@ -2,4 +2,8 @@
     background-color: #fca311;
     color: #14213d;
     padding: 20px;
+    width: 100%;
+}
+.header h2, .header h3{
+    display: block;
 }

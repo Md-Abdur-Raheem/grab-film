@@ -3,9 +3,10 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className = "header">
-            <h2>Grab your seat now!!!</h2>
-            <h3>Total budget : $500</h3>
+        <div className = "header mx-auto">
+            <h2>Grab your show!!!</h2>
+            <h3>Watch your favourites oscar winning shortfilm online now...</h3>
+            <h3>Total cost: $1245</h3>
         </div>
     );
 };
