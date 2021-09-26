@@ -1,0 +1,200 @@
+[
+    {
+      "id": 1,
+      "name": "If Anything Happens I Love You",
+      "directors": [
+        "Will McCormac",
+        "Michael Govier"
+      ],
+      "year": 2020,
+      "country": "United States",
+      "rating": 7.8,
+      "ticketPrice": 99,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/If_Anything_Happens_I_Love_You_Poster.jpg/220px-If_Anything_Happens_I_Love_You_Poster.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hair Love",
+      "directors": [
+        "Matthew A Cherry",
+        "Bruce W Smith"
+      ],
+      "year": 2019,
+      "country": "United States",
+      "rating": 7.4,
+      "ticketPrice": 94,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Hair_Love_poster.jpg/220px-Hair_Love_poster.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bao",
+      "directors": [
+        "Domee Shi"
+      ],
+      "year": 2018,
+      "country": "United States",
+      "rating": 7.5,
+      "ticketPrice": 94,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/f/fa/Bao_%28film%29_poster.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dear Basketball",
+      "directors": [
+        "Glen Keane"
+      ],
+      "year": 2017,
+      "country": "United States",
+      "rating": 7.4,
+      "ticketPrice": 89,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Dear-Basketball.jpg/220px-Dear-Basketball.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Piper",
+      "directors": [
+        "Alan Barillaro"
+      ],
+      "year": 2016,
+      "country": "United States",
+      "rating": 8.4,
+      "ticketPrice": 89,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Piper_%282016_film%29_poster.jpg/220px-Piper_%282016_film%29_poster.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bear Story",
+      "directors": [
+        "Gabriel Osorio"
+      ],
+      "year": 2015,
+      "country": "Chile",
+      "rating": 7.7,
+      "ticketPrice": 84,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Bear_Story_short_film.png/220px-Bear_Story_short_film.png"
+    },
+    {
+      "id": 6,
+      "name": "Feast",
+      "directors": [
+        "Patric Osborne"
+      ],
+      "year": 2014,
+      "country": "United States",
+      "rating": 8.2,
+      "ticketPrice": 84,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Feast_%282014_film%29_logo.png/220px-Feast_%282014_film%29_logo.png"
+    },
+    {
+      "id": 7,
+      "name": "Mr. Hublot",
+      "directors": [
+        "Laurent Witz",
+        "Alexandre Espugares"
+      ],
+      "year": 2013,
+      "country": "France",
+      "rating": 7.2,
+      "ticketPrice": 79,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/4/4e/Mr_Hublot.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Paperman",
+      "directors": [
+        "John Kahrs"
+      ],
+      "year": 2012,
+      "country": "United States",
+      "rating": 8.3,
+      "ticketPrice": 79,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Paperman_%282012%29_poster.jpg/220px-Paperman_%282012%29_poster.jpg"
+    },
+    {
+      "id": 9,
+      "name": "The Fantastic Flying Books of Mr. Morris Lessmore",
+      "directors": [
+        "Williama Joycee",
+        "Brandon"
+      ],
+      "year": 2011,
+      "country": "United States",
+      "rating": 7.9,
+      "ticketPrice": 74,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/The_Fantastic_Flying_Books_of_Mr._Morris_Lessmore_poster.jpg/220px-The_Fantastic_Flying_Books_of_Mr._Morris_Lessmore_poster.jpg"
+    },
+    {
+      "id": 10,
+      "name": "The Lost Thing",
+      "directors": [
+        "Shaun Tan"
+      ],
+      "year": 2010,
+      "country": "Australia",
+      "rating": 7.4,
+      "ticketPrice": 74,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/The_Lost_Thing_cover.jpg/220px-The_Lost_Thing_cover.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Logorama",
+      "directors": [
+        "François Alaux",
+        "Hervé de Crécy",
+        "Ludovic Houplain\t"
+      ],
+      "year": 2009,
+      "country": "France",
+      "rating": 7.4,
+      "ticketPrice": 79,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/5/5f/Logorama_poster.jpg"
+    },
+    {
+      "id": 12,
+      "name": "La Maison en Petits Cubes",
+      "directors": [
+        "Kunio Katō"
+      ],
+      "year": 2008,
+      "country": "Japan",
+      "rating": 8.2,
+      "ticketPrice": 79,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/1/16/La_Maison_en_Petits_Cubes_DVD_cover.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Peter & the Wolf",
+      "directors": [
+        "Suzie Templeton"
+      ],
+      "year": 2007,
+      "country": "United Kingdom",
+      "rating": 7.6,
+      "ticketPrice": 74,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Peter_and_the_Wolf.jpg/220px-Peter_and_the_Wolf.jpg"
+    },
+    {
+      "id": 14,
+      "name": "The Danish Poet",
+      "directors": [
+        "Torill Kove"
+      ],
+      "year": 2006,
+      "country": "Norway",
+      "rating": 7.5,
+      "ticketPrice": 74,
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/The_Danish_Poet_0.jpg/220px-The_Danish_Poet_0.jpg"
+    },
+    {
+      "id": 15,
+      "name": "",
+      "directors": [
+        "The Moon and the Son: An Imagined Conversation"
+      ],
+      "year": 2005,
+      "country": "United States",
+      "rating": 6.8,
+      "ticketPrice": 69,
+      "banner": "https://m.media-amazon.com/images/M/MV5BMjEzNzQ5MjI5MV5BMl5BanBnXkFtZTgwNzI2MTgzNzE@._V1_.jpg"
+    }
+  ]
